@@ -1,6 +1,7 @@
 import Banner from "./components/Banner"
 import Header from "./components/Header"
 import Navbar from "./components/Navbar"
+import Supply from "./components/Supply"
 
 
 function App() {
@@ -11,6 +12,8 @@ function App() {
     <Header/>
     <Navbar/>
     <Banner/>
+    <Supply/>
+
     </>
   )
 }

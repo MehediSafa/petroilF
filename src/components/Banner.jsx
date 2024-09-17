@@ -7,7 +7,7 @@ const Banner = () => {
     style={{ backgroundImage: `url(${bannerImg})` }}>
       <div className='max-w-container mx-auto'>
         <div>
-         <h2 className=' pb-6 font-pops text-[64px] font-bold text-white w-[842px] h-[186px]'>We exist since 1975 on the oil and gas industry.</h2>
+         <h2 className=' pb-6 font-pops lg:text-[64px] text-[24px] font-bold text-white lg:w-[842px] lg:h-[186px] text-center lg:text-start'>We exist since 1975 on the oil and gas industry.</h2>
          <div className='pt-[31px] lg:text-start text-center'>
 
          <span className=' py-2 px-4  bg-[#F40404]'>Learn More</span>

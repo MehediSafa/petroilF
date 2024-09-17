@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Logo from '../assets/logo.png'
+import Logo from '../assets/Logo.png'
 import { FaBars } from "react-icons/fa6";
 import { RxCross1, RxSpaceBetweenHorizontally } from "react-icons/rx";
 
