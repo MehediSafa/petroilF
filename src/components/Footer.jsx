@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '../assets/logo.png'
+import logo from '../assets/Logo.png'
 import { CiMail } from "react-icons/ci";
 import { MdAddCall } from "react-icons/md";
 import { FaFacebookF,FaTwitter,FaLinkedin,FaInstagram    } from "react-icons/fa";
